@@ -1,0 +1,16 @@
+---
+layout: project
+type: project
+image: img/maho/maho-square.png
+title: "Maho"
+date: 2024
+published: true
+labels:
+  - Python
+  - Multi-Processing
+  - Inter Process Communication
+summary: "TODO: "
+---
+# Pype
+
+Python as a language is biased towards imperative, object oriented programs. While the support for functional or more declarative programming exists, it is limited and clunky compared to functional first languages (or simply more flexible ones). Pype is a small, targeted library that intends to improve developer ergonomics when writing functional python by introducing more powerful notion of stream processing and infix operations for mapping, applying, collecting, and executing pipelines.
