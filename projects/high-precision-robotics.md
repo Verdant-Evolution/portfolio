@@ -11,7 +11,7 @@ labels:
 summary: "A project to integrate a 6DoF robotic arm into an xray beamline."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/rviz-chess-fake-fan.png">
 
 X-Ray beamline scientists have unique challenges when it comes to positioning of samples. Often they need to know where something is in space to within a single micron. While 6DoF arms present significant flexibility, they often do not have the necessary accuracy. This project involved 
 1. Writing custom drivers for a Kuka arm so we can control it through the ROS2 control framework.
