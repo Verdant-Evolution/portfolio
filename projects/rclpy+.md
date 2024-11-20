@@ -1,13 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/rclpy+/rclpy+-square.png
+title: "RCLPY+"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - ROS2
+  - Python
+  - Developer Ergonomics
+  - Concurrent Processing
 summary: "An extension to the Python ROS Client Library to accelerate ROS2 development."
 ---
 

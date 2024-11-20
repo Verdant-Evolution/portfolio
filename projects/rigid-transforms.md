@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/rigid-transforms/rigid-transforms-square.png
+title: "Rigid Transforms"
 date: 2024
 published: true
 labels:
   - Robotics
-  - ROS2
-summary: "TODO:"
+  - Python
+  - Lie Algebra
+summary: "A library for working with rigid transformations in SE3."
 ---
 
 
