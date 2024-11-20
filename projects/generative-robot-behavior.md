@@ -1,14 +1,17 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/generative-robotic-behavior/generative-robotic-behavior-square.png
+title: "Generative Robotic Behavior"
 date: 2024
 published: true
 labels:
   - Robotics
   - ROS2
-summary: "TODO:"
+  - Generative AI
+  - Program Synthesis
+  - Augmented Reality
+summary: "Using augmented reality to enhance human-robot communication and simplify program generation."
 ---
 
 

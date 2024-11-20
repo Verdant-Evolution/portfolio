@@ -10,7 +10,7 @@ labels:
   - Rust
   - Python
   - C++
-summary: "Packaging and distributing a state of the art analytic inverse kinematics solver. Algorithms and core code attirbuted to [IK-Geo](https://arxiv.org/abs/2211.05737)"
+summary: "Packaging and distributing a state of the art analytic inverse kinematics solver. Algorithms and core code attirbuted to the IK-Geo paper: https://arxiv.org/abs/2211.05737"
 ---
 
 # IK-Geo

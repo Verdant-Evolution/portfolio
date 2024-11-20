@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1349.92 1167.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sfumatura_senza_nome_36);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Sfumatura_senza_nome_36-3);
+      }
+
+      .cls-3 {
+        fill: url(#Sfumatura_senza_nome_36-2);
+      }
+    </style>
+    <linearGradient id="Sfumatura_senza_nome_36" data-name="Sfumatura senza nome 36" x1="772.64" y1="453.6" x2="1288.08" y2="-61.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#61ac2c" stop-opacity=".5"/>
+      <stop offset=".06" stop-color="#61ac2c" stop-opacity=".58"/>
+      <stop offset=".19" stop-color="#61ac2c" stop-opacity=".74"/>
+      <stop offset=".33" stop-color="#61ac2c" stop-opacity=".85"/>
+      <stop offset=".49" stop-color="#61ac2c" stop-opacity=".94"/>
+      <stop offset=".68" stop-color="#61ac2c" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#61ac2c"/>
+    </linearGradient>
+    <linearGradient id="Sfumatura_senza_nome_36-2" data-name="Sfumatura senza nome 36" x1="319.13" y1="237.18" x2="379.68" y2="237.18" xlink:href="#Sfumatura_senza_nome_36"/>
+    <linearGradient id="Sfumatura_senza_nome_36-3" data-name="Sfumatura senza nome 36" x1="0" y1="583.56" x2="849.41" y2="583.56" xlink:href="#Sfumatura_senza_nome_36"/>
+  </defs>
+  <g id="Livello_1" data-name="Livello 1">
+    <g>
+      <path class="cls-1" d="m1349.92,0l-173.33,300.14c-50.32,87.12-143.23,140.79-243.88,140.79h-172.72c80.73-114.19,186.41-206.78,330.24-259.39-141.25,8.52-260.3,64.32-362.93,145.66l107.65-186.41C885.27,53.68,978.17,0,1078.82,0h271.1Z"/>
+      <g>
+        <path class="cls-3" d="m379.68,237.14c0,16.7-13.57,30.27-30.27,30.27s-30.27-13.57-30.27-30.27,13.57-30.2,30.27-30.2,30.27,13.57,30.27,30.2Z"/>
+        <path class="cls-2" d="m811.66,932.31l-135.53,234.81-88.99-153.62,109.42-176.31c11.67-18.82,11.89-42.31.66-61.27l-286.67-485.23c12.62-14.3,20.21-33.04,20.21-53.54,0-44.79-36.47-81.26-81.33-81.26s-81.33,36.47-81.33,81.26,36.47,81.33,81.33,81.33c5.91,0,11.6-.66,17.14-1.9l286.75,485.23c1.53,2.63,1.46,5.84-.15,8.46l-95.05,153.11L0,0h271.06c100.66,0,193.6,53.69,243.93,140.86l296.67,509.74c50.33,87.17,50.33,194.54,0,281.71Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

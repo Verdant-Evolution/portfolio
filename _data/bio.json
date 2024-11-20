@@ -2,22 +2,22 @@
   "basics": {
     "name": "Verdant Evolution",
     "label": "Software Consultants",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "img/logo.svg",
     "email": "contact@verdantevolution.com",
     "phone": "",
     "website": "verdantevolution.com",
     "summary": "We are a software consulting group that specializes in high performance and scientific software.",
     "location": { "address": "", "postalCode": "43320", "city": "Columbus", "countryCode": "USA", "region": "Ohio" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://github.com/verdant-Evolution/" },
+      { "network": "github", "username": "mmaluhia", "url": "https://github.com/verdant-Evolution/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Materials Science" },
+    { "name": "High Performance Computing" },
+    { "name": "Human-Machine Interfaces" },
+    { "name": "3D Computation" }
   ],
   "skills": [
     {
