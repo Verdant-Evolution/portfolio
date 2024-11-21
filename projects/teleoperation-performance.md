@@ -17,7 +17,7 @@ summary: "A framework for evaluating performance in teleoperation tasks while va
 
 
 <p align="center">
-<img src="/img/teleoperation-test/teleoperation.png" width="50%">
+<img src="/portfolio/img/teleoperation-test/teleoperation.png" width="50%">
 </p>
 
 # Teleoperation Performance
