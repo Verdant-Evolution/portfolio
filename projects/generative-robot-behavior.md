@@ -1,9 +1,11 @@
 ---
 layout: project
 type: project
+github: https://github.com/Verdant-Evolution/application
 image: img/generative-robotic-behavior/generative-robotic-behavior-square.svg
 title: "Generative Robotic Behavior"
 date: 2024
+index: 1
 published: true
 labels:
   - Robotics

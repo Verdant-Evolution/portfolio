@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+github: https://github.com/Verdant-Evolution/maho
 image: img/maho/maho-square.png
 title: "Maho"
 date: 2024

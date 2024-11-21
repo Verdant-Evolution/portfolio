@@ -12,11 +12,19 @@
           <span style="background-color: var(--tf-pill-bg); color: var(---tf-pill-color);" class="badge rounded-pill">{{ label }}</span>
           {% endfor %}
         </p>
-        {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
-        {% else %}
-        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
-        {% endif %}
+        
+        <div class="card-body-footer">
+          <a href="{{ page.github }}" target="_blank">
+            <svg class="tf-social">
+              <use xlink:href="{{ '/img/bootstrap-icons.svg' | prepend: site.baseurl }}#github"/>
+            </svg>
+          </a>
+          {% if page.projecturl %}
+          <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+          {% else %}
+          <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
+          {% endif %}
+        </div>
       </div>
     </div>
   </div>

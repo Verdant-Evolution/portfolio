@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+github: https://github.com/Verdant-Evolution/pype
 image: img/pype/pype-square.png
 title: "Pype"
 date: 2024

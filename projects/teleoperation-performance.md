@@ -1,9 +1,11 @@
 ---
 layout: project
 type: project
+github: https://github.com/uwgraphics/unity-robosim-kpwelsh
 image: img/teleoperation-test/teleoperation-test.png
 title: "Teleoperation Performance"
-date: 2024
+date: 2022
+index: 5
 published: true
 labels:
   - Robotics

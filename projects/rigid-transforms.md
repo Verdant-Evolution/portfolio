@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+github: https://github.com/Verdant-Evolution/rigid_transforms
 image: img/rigid-transforms/rigid-transforms-square.png
 title: "Rigid Transforms"
 date: 2024

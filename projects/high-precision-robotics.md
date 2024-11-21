@@ -1,9 +1,11 @@
 ---
 layout: project
 type: project
+github: https://gitlab.verdantevolution.com/afrl/robot-controller-ros
 image: img/high-precision-robotics/high-precision-robotics-square.png
 title: "High Precision Robotics"
-date: 2024
+date: 2024-Present
+index: 2
 published: true
 labels:
   - Robotics

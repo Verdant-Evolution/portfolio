@@ -1,9 +1,11 @@
 ---
 layout: project
 type: project
+github: https://github.com/Verdant-Evolution/ik-geo
 image: img/ik-geo/ik-geo-square.png
 title: "IK-Geo"
 date: 2024
+index: 6
 published: true
 labels:
   - Robotics
