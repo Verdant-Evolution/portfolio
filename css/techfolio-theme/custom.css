@@ -31,7 +31,19 @@ h1 {
 }
 
 .card img {
-  max-width: 28em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+  height: auto;
+  width: 100%;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
 }
 
 /* Format social media icons */

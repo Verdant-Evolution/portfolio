@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/generative-robotic-behavior/generative-robotic-behavior-square.png
+image: img/generative-robotic-behavior/generative-robotic-behavior-square.svg
 title: "Generative Robotic Behavior"
 date: 2024
 published: true
